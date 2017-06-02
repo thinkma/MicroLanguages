@@ -2,7 +2,7 @@ Pod::Spec.new do |s|
     s.name         = 'MicroLanguages'
     s.version      = '0.0.1'
     s.summary      = 'An easy way to use pull-to-refresh'
-    s.homepage     = 'https://github.com/CoderMJLee/MJRefresh'
+    s.homepage     = 'https://github.com/thinkma/MicroLanguages.git'
     s.license      = 'MIT'
     s.authors      = {'mawei' => '278258236@qq.com'}
     s.platform     = :ios, '8.0'
